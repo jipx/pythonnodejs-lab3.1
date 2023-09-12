@@ -6,7 +6,7 @@ const fs = require('fs');
 const s3 = new AWS.S3({ region: 'us-east-1' });
 const bucketName = 'jipx-2023-09-12';
 
-const policyFile = fs.readFileSync('/home/ec2-user/environment/website_security_policy.json', 'utf8');
+const policyFile = fs.readFileSync('../website_security_policy.json', 'utf8');
 
 const params = {
   Bucket: bucketName,
