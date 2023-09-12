@@ -1,6 +1,9 @@
 # Clone the project
 `git clone https://github.com/jipx/pythonnodejs-lab3.1.git`
 
+in Cloud9 environment, open a terminal, change to the project directory:  
+` cd pythonnodejs-lab3.1/.1/`
+
 # pythonnodejs-lab3.1
 
 Link Cloud 9 and github:
