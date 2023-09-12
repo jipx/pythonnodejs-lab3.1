@@ -7,7 +7,7 @@ import json
 S3API = boto3.client("s3", region_name="us-east-1")
 bucket_name = "jipx-2023-09-12"
 
-policy_file = open("/home/ec2-user/environment/website_security_policy.json", "r")
+policy_file = open("../website_security_policy.json", "r")
 
 
 S3API.put_bucket_policy(
