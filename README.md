@@ -41,4 +41,8 @@ https://github.com/settings/tokens
 Personal access tokens (classic) function like ordinary OAuth access tokens. They can be used instead of a password for Git over HTTPS, or can be used to authenticate to the API over Basic Authentication.
 ![image](https://github.com/jipx/pythonnodejs-lab3.1/assets/4178277/2ff79c74-b73e-4cd1-acd1-4ab8089a0143)
 
+#Notes：
+https://docs.google.com/document/d/1Sq_8FQ6l01YYRu2aY_ifxkpXZAvrlrVWSgl9q8i0_lg/edit?usp=sharing
+
+
 
