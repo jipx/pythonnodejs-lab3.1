@@ -43,6 +43,8 @@ Personal access tokens (classic) function like ordinary OAuth access tokens. The
 
 #Notes：
 https://docs.google.com/document/d/1Sq_8FQ6l01YYRu2aY_ifxkpXZAvrlrVWSgl9q8i0_lg/edit?usp=sharing
+![image](https://github.com/jipx/pythonnodejs-lab3.1/assets/4178277/80451127-5cae-45c6-a6a4-cd326836b786)
+
 
 
 
