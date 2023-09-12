@@ -1,4 +1,4 @@
-
+//initial code for attach a policy to a bucket
 
 const AWS = require('aws-sdk');
 const fs = require('fs');
