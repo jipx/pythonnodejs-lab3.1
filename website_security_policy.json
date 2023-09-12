@@ -25,7 +25,7 @@
               "Resource": "arn:aws:s3:::jipx-2023-09-12/report.html",
               "Condition": {
                   "StringNotEquals": {
-                      "s3:authtype": "REST-QUERY_STRING"
+                      "s3:authtype": "REST-QUERY-STRING"
                   }
               }
           }
