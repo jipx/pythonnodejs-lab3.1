@@ -1,17 +1,3 @@
-# Clone the project
-`git clone https://github.com/jipx/pythonnodejs-lab3.1.git`
-
-in Cloud9 environment, open a terminal, change to the project directory:  
-`cd pythonnodejs-lab3.1/.1/`
-
-# pythonnodejs-lab3.1
-
-Link Cloud 9 and github:
-https://medium.com/@AshKamdar/3-integrate-aws-cloud9-with-github-a1982e05844f
-
-password authentication no longer supported, need to use token:
-https://github.com/settings/tokens
-Personal access tokens (classic) function like ordinary OAuth access tokens. They can be used instead of a password for Git over HTTPS, or can be used to authenticate to the API over Basic Authentication.
 
 # Configure Git Username and Email:
 It's a good practice to configure your Git username and email globally on your Cloud9 environment so that your commits are properly attributed. Run the following commands, replacing "Your Name" and "your.email@example.com" with your Git username and email:  
@@ -34,14 +20,25 @@ In your Cloud9 terminal, configure Git to use the Personal Access Token for auth
 
 `git credential approve <your-personal-access-token>`
 
-# Test Your Git Configuration:
-You can test your Git configuration by cloning a GitHub repository or performing any Git operation that requires authentication. For example, clone a repository:  
-`git clone https://github.com/your-username/your-repository.git`
+# clone the repository for the lab:
+
+`git clone https://github.com/jipx/pythonnodejs-lab3.1.git`
+
+in Cloud9 environment, open a terminal, change to the project directory:  
+`cd pythonnodejs-lab3.1/.1/`
 
 You should be able to clone the repository without entering your GitHub username and password.
 
 With these steps, you've configured Git credentials in your AWS Cloud9 environment using a Personal Access Token (PAT) for secure authentication with GitHub. This setup allows you to work with GitHub repositories without needing to enter your credentials each time you interact with Git.
 
+# reference
 
+Link Cloud 9 and github:
+https://medium.com/@AshKamdar/3-integrate-aws-cloud9-with-github-a1982e05844f
+
+password authentication no longer supported, need to use token:
+https://github.com/settings/tokens
+Personal access tokens (classic) function like ordinary OAuth access tokens. They can be used instead of a password for Git over HTTPS, or can be used to authenticate to the API over Basic Authentication.
+![image](https://github.com/jipx/pythonnodejs-lab3.1/assets/4178277/2ff79c74-b73e-4cd1-acd1-4ab8089a0143)
 
 
