@@ -1,3 +1,6 @@
+# Clone the project
+`git clone https://github.com/jipx/pythonnodejs-lab3.1.git`
+
 # pythonnodejs-lab3.1
 
 Link Cloud 9 and github:
