@@ -5,7 +5,7 @@ import boto3
 import json
 
 S3API = boto3.client("s3", region_name="us-east-1")
-bucket_name = "<FMI_1"
+bucket_name = "<FMI_1>"
 
 policy_file = open("/home/ec2-user/environment/pythonnodejs-lab3.1/resources/website_security_policy.json", "r")
 
